@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <span style="font-size: 14px;">I'm a B.S. student in Electrical Engineering at POSTECH!  
-My research interests are *Brain-inspired AI🧠, algorithm-hardware co-design optimization🖥️* and *Neural Rendering accelerator*.</span>
+My research interests are *Brain-inspired AI🧠, algorithm-hardware co-design optimization🖥️*  and *Neural Rendering accelerator*.</span>
 
 ### EDUCATION
 
