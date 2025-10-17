@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 14px;">I'm a B.S. student in Electrical Engineering at POSTECH!    
+<span style="font-size: 14px;">I'm a B.S. student in Electrical Engineering at POSTECH!  
 My research interests are *algorithm-hardware co-design optimization* and *Neural Rendering accelerator*.</span>
 
 ### EDUCATION
