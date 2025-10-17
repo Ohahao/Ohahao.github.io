@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hayun Oh"
+title                    : "Hayun Oh 🌱"
 title_separator          : "-"
 name                     : &name "Hayun Oh"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Hayun Oh"
   pronouns         : # example: "she/her"  
-  bio              : "Hello! I'm a B.S. student in Electrical Engineering. My research interests are Algorithm-hardware co-optimization and Neural Rendering accelerator:)"
+  bio              : "B.S @ POSTECH"
   location         : "South Korea"
   employer         : "Pohang University of Science and Technology(POSTECH)"
   uri              : # URL
