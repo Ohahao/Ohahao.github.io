@@ -21,7 +21,7 @@ The university of Melbourne</span>  
 ### PUBLICATION
 
 <span style="font-size: 14px;">**A Quantitative Evaluation Method of Neural Rendering Accelerators**  
-Hayun Oh, Youngjoo Lee    
+Hayun Oh, Youngjoo Lee  
 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), 2025</span>  
 
 ### RESEARCH EXPERIENCE
