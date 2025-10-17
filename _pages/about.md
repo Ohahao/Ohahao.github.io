@@ -12,10 +12,10 @@ I'm a B.S. student in Electrical Engineering at POSTECH! My research interests a
 
 EDUCATION
 ======
-**B.S. in Electrical Engineering (2021.2 - present)**
+**B.S. in Electrical Engineering (2021.2 - present)**  
 Pohang University of Science and Technology(POSTECH)
 
-**Exchange student in Electrical and Electronic Engineering (2024.7 - 2024.12)**
+**Exchange student in Electrical and Electronic Engineering (2024.7 - 2024.12)**  
 The university of Melbourne  
 
 PUBLICATION
