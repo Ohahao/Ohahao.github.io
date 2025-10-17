@@ -15,7 +15,7 @@ My research interests are *algorithm-hardware co-design optimization* and *Neura
 <span style="font-size: 14px;">**B.S. in Electrical Engineering (2021.2 - present)**  
 Pohang University of Science and Technology(POSTECH)</span>  
 
-<span style="font-size: 14px;">**Exchange student in Electrical and Electronic Engineering (2024.7 - 2024.12)**   
+<span style="font-size: 14px;">**Exchange student in Electrical and Electronic Engineering (2024.7 - 2024.12)**    
 The university of Melbourne</span>  
 
 ##### PUBLICATION
