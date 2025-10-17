@@ -7,26 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 12px;">I'm a B.S. student in Electrical Engineering at POSTECH!  
+<span style="font-size: 14px;">I'm a B.S. student in Electrical Engineering at POSTECH!  
 My research interests are *algorithm-hardware co-design optimization* and *Neural Rendering accelerator*.</span>
 
 ##### EDUCATION
 
-<span style="font-size: 12px;">**B.S. in Electrical Engineering (2021.2 - present)**  
-Pohang University of Science and Technology(POSTECH)
+<span style="font-size: 14px;">**B.S. in Electrical Engineering (2021.2 - present)**  
+Pohang University of Science and Technology(POSTECH)</span>  
 
-**Exchange student in Electrical and Electronic Engineering (2024.7 - 2024.12)**  
+<span style="font-size: 14px;">**Exchange student in Electrical and Electronic Engineering (2024.7 - 2024.12)**   
 The university of Melbourne</span>  
 
 ##### PUBLICATION
 
-<span style="font-size: 12px;">**A Quantitative Evaluation Method of Neural Rendering Accelerators**  
-Hayun Oh, Youngjoo Lee  
+<span style="font-size: 14px;">**A Quantitative Evaluation Method of Neural Rendering Accelerators**  
+Hayun Oh, Youngjoo Lee    
 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), 2025</span>  
 
 ##### Research Experience
 
-<span style="font-size: 12px;">**EPIC Lab, POSTECH (2025.2 - 2025.8)**  
+<span style="font-size: 14px;">**EPIC Lab, POSTECH (2025.2 - 2025.8)**  
 Undergraduate Research Intern</span>
 
 
